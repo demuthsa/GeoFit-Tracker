@@ -1,4 +1,4 @@
-# <center>Mapty</center>
+# <center>GeoFit Tracker</center>
 Application that fetches geolocation and logs workouts
 
 <h3>Created Using:</h3>
